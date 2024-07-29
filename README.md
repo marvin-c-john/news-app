@@ -29,14 +29,19 @@ Here are some screenshots of the app:
 
 <img src="https://github.com/user-attachments/assets/8a02c6c4-abb3-43b1-82f4-732837b8e876" alt="Simulator Screenshot - iPhone 12 Pro - 2024-07-29 at 12 10 45" width="400"/>
 
-# Dark Mode
-
-<img src="https://github.com/user-attachments/assets/56cc0e9d-7134-4cbc-a652-9692794c0de0" alt="Simulator Screenshot - iPhone 12 Pro - 2024-07-29 at 12 13 57" width="400"/>
-
 
 <img src="https://github.com/user-attachments/assets/97b61ff1-6af1-4a4d-9ca5-4c46e593b2ab" alt="Simulator Screenshot - iPhone 15 - 2024-07-29 at 11 53 22" width="400"/>
 
+# Dark Mode
+
+
+
 <img src="https://github.com/user-attachments/assets/f386c724-1b29-4f73-aaf3-963f12f86ebc" alt="Simulator Screenshot - iPhone 15 - 2024-07-29 at 11 52 34" width="400"/>
+
+
+
+<img src="https://github.com/user-attachments/assets/56cc0e9d-7134-4cbc-a652-9692794c0de0" alt="Simulator Screenshot - iPhone 12 Pro - 2024-07-29 at 12 13 57" width="400"/>
+
 
 
 # Screen Recording
@@ -62,7 +67,8 @@ https://github.com/user-attachments/assets/21d59324-940f-47f5-9960-b81141ffc2a1
 
 # App Icon
 
-![News (4)](https://github.com/user-attachments/assets/ef0987be-db83-4b74-98c6-3fd2e51cdea7)
+<img src="https://github.com/user-attachments/assets/ef0987be-db83-4b74-98c6-3fd2e51cdea7" alt="News Screenshot" width="200"/>
+
 
 
 
