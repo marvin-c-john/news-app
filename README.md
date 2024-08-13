@@ -65,11 +65,5 @@ https://github.com/user-attachments/assets/21d59324-940f-47f5-9960-b81141ffc2a1
 
 
 
-# App Icon
-
-<img src="https://github.com/user-attachments/assets/ef0987be-db83-4b74-98c6-3fd2e51cdea7" alt="News Screenshot" width="200"/>
-
-
-
 
 
