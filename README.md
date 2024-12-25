@@ -11,7 +11,7 @@ The News App is a small project I started to improve my iOS app development skil
 - Real-time news display
 - Support for Light and Dark Mode
 - Different categories and news sources
-- Save Articles (still working on it)
+- Save Articles [Fixed]
 
 # Technologies Used
 - SwiftUI
@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/21d59324-940f-47f5-9960-b81141ffc2a1
 
 
 
-
+https://github.com/user-attachments/assets/2c995955-f7a2-4dfe-9ba8-eba63ca545ee
 
 
 
