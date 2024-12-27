@@ -17,6 +17,7 @@ The News App is a small project I started to improve my iOS app development skil
 - SwiftUI
 - The Guardian API
 - NewsAPI
+- Swiftdata
 
 # Screenshots
 Here are some screenshots of the app:
